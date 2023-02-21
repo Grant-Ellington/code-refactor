@@ -58,3 +58,5 @@
 ![id](./assets/images/id.png)
   * made html elements semantic
   * removed repetition in the CSS file
+
+  ![big-box](./assets/images/big-box.png)
