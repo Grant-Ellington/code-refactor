@@ -53,8 +53,8 @@
   ## Spot-Light
 
   Items accomplished
-  * relinked local link with href and ids
+  * relinked local link with href and ids  
 ![href](./assets/images/href.png)
-
+![id](./assets/images/id.png)
   * made html elements semantic
   * removed repetition in the CSS file
