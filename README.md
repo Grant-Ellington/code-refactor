@@ -57,6 +57,9 @@
 ![href](./assets/images/href.png)
 ![id](./assets/images/id.png)
   * made html elements semantic
+  * added alt tags.
+
+![alttags](./assets/images/alttag.png)
   * removed repetition in the CSS file
 
   ![big-box](./assets/images/big-box.png)
