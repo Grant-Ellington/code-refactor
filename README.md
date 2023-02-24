@@ -10,6 +10,7 @@
   * [Technologies](#Technologies)
   * [Questions](#Questions)
   * [Spot-Light](#Spot-Light)
+  * [Appearance](#Appearance)
   
   ## License
   
@@ -63,3 +64,8 @@
   * removed repetition in the CSS file
 
   ![big-box](./assets/images/big-box.png)
+
+## Appearance
+
+![front page 1](./assets/images/front-page.png)
+![front page 2](./assets/images/front-page-2.png)
